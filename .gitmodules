@@ -28,3 +28,6 @@
 [submodule "lib/mbedtls"]
 	path = lib/mbedtls
 	url = https://github.com/Mbed-TLS/mbedtls.git
+[submodule "lib/Adafruit_FONA"]
+	path = lib/Adafruit_FONA
+	url = git@github.com:clasqui/Adafruit_FONA.git

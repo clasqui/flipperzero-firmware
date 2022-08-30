@@ -82,6 +82,7 @@ FIRMWARE_APPS = {
         "basic_plugins",
         # Debug
         "debug_apps",
+        "fona_package",
     ],
     "unit_tests": [
         "basic_services",
